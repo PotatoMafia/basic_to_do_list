@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "todo": "Zrobić zakupy",
+    "description": "Kupić chleb, masło, wędlinę oraz owoce i warzywa. Zwrócić uwagę na świeżość produktów.",
+    "dueDate": "2024-10-31T19:30:00",
+    "difficulty": 3,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "todo": "Posprzątać mieszkanie",
+    "description": "Odkurzyć, umyć podłogi, wynieść śmieci oraz zorganizować przestrzeń w szafkach. Zwrócić uwagę na porządek w salonie i kuchni.",
+    "dueDate": "2024-11-05T12:00:00",
+    "difficulty": 4,
+    "completed": false
+  },
+  {
+    "id": 3,
+    "todo": "Przygotować raport",
+    "description": "Sporządzić raport na temat wyników sprzedaży za ostatni kwartał, uwzględniając wszystkie dane i wykresy. Upewnić się, że wszystkie informacje są aktualne.",
+    "dueDate": "2024-11-10T09:00:00",
+    "difficulty": 6,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "todo": "Pójść na siłownię",
+    "description": "Ćwiczyć przez co najmniej 1 godzinę. Skupić się na treningu siłowym oraz cardio. Zaplanować, które ćwiczenia zostaną wykonane.",
+    "dueDate": "2024-11-02T18:00:00",
+    "difficulty": 2,
+    "completed": false
+  },
+  {
+    "id": 5,
+    "todo": "Zadzwonić do rodziców",
+    "description": "Upewnić się, że wszystko w porządku. Porozmawiać o bieżących sprawach rodzinnych i zapytać o ich zdrowie.",
+    "dueDate": "2024-11-03T15:00:00",
+    "difficulty": 1,
+    "completed": false
+  },
+  {
+    "id": 6,
+    "todo": "Przeczytać książkę",
+    "description": "Przeczytać przynajmniej dwa rozdziały nowej książki. Notować ważne myśli i przemyślenia.",
+    "dueDate": "2024-11-07T20:00:00",
+    "difficulty": 2,
+    "completed": false
+  },
+  {
+    "id": 7,
+    "todo": "Zrobić pranie",
+    "description": "Wyprać wszystkie brudne ubrania, rozdzielając je na białe, kolorowe i delikatne. Upewnić się, że wszystko jest dobrze wyprane i wysuszone.",
+    "dueDate": "2024-11-04T10:00:00",
+    "difficulty": 3,
+    "completed": false
+  },
+  {
+    "id": 8,
+    "todo": "Nauczyć się nowych umiejętności",
+    "description": "Zainstalować aplikację do nauki języków i spędzić co najmniej 30 minut dziennie na nauce. Ustalić cele na najbliższy tydzień.",
+    "dueDate": "2024-11-09T18:00:00",
+    "difficulty": 4,
+    "completed": false
+  },
+  {
+    "id": 9,
+    "todo": "Ugotować obiad",
+    "description": "Przygotować zdrowy obiad, używając świeżych składników. Wypróbować nowy przepis na danie wegetariańskie.",
+    "dueDate": "2024-11-06T13:00:00",
+    "difficulty": 3,
+    "completed": false
+  },
+  {
+    "id": 10,
+    "todo": "Zorganizować spotkanie z przyjaciółmi",
+    "description": "Umówić się na wspólne wyjście lub spotkanie online. Zaproponować kilka terminów i miejsca.",
+    "dueDate": "2024-11-08T17:00:00",
+    "difficulty": 2,
+    "completed": false
+  }
+]
